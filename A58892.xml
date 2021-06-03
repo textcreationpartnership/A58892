@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a peer of the Church of England clearing a point touched in a sermon preached at Chester, before His Most Sacred Majesty, on the 28th of August, in answer to a post-script joyned unto the answer to Nubes testium.</title>
+            <author>Sabran, Lewis, 1652-1732.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58892</idno><idno type="EEBO-CITATION">16267918</idno>
+  <idno type="VID">105193</idno>
+  <idno type="EEBO-PROQUEST">2240863492</idno>
+  
+            <idno type="STC">Wing S218</idno>
+            <idno type="STC">ESTC R37197</idno>
+            <idno type="OCLC">16267918</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105193)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1156:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a peer of the Church of England clearing a point touched in a sermon preached at Chester, before His Most Sacred Majesty, on the 28th of August, in answer to a post-script joyned unto the answer to Nubes testium.</title>
+                  <author>Sabran, Lewis, 1652-1732.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Lewis Sabran, Priest of the Society of Jesus.</note>
+                  <note>"Published with allowance."</note>
+                  <note>Imperfect: tightly bound with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Gee, Edward, 1657-1730. --  Answer to the compiler of the Nubes testium.</term>
+               <term type="corporate_name">Catholic Church --  Apologetic works.</term>
+               <term type="topical_term">Authority --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105193:1"/>
+            <pb facs="tcp:105193:1"/>
+            <p>A LETTER To a PEER of the Church of England Clearing a Point, touched in a SERMON Preached at <hi>CHESTER,</hi> before His Most Sacred Majesty, on the 28th. of <hi>August.</hi>
+            </p>
+            <p>In answer to a Postscript joyned unto the Answer to <hi>NUBES TESTIUM.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Published with Allowance.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Most Excellent Majesty, for His Houshold and Chappel; And are sold at his Printing-house on the <hi>Ditch-side</hi> in <hi>Black-Fryers.</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:105193:2"/>
+            <pb n="1" facs="tcp:105193:2"/>
+            <head>A Letter to a Peer of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> clearing a Point, touch'd in a Sermon, preach'd at <hi>Chester,</hi> before his Most Sacred Majesty, on the <hi>28th</hi> of <hi>August:</hi> in answer to a Post-script, joyn'd unto the Answer to <hi>Nubes Testium.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg> Person of Honor having put in your Lordships Hands, the Sermon I preach'd on the Feast of S. <hi>Augustin,</hi> before his Majesty at <hi>Chester,</hi> towards the fuller resolving of a Doubt in Con<g ref="char:EOLhyphen"/>troversie, debated betwixt your Lord<g ref="char:EOLhyphen"/>ship and him, concerning the Autho<g ref="char:EOLhyphen"/>rity of the Church: I conceived great Hopes, That so eminent a Doctor as the great S. <hi>Augu<g ref="char:EOLhyphen"/>stin;</hi> who alone speaks in it, as to the whole Drift, and (in most Places) the very Words, would soon put the Point out of Question, and beyond the possibility of a Doubt.</p>
+            <p>I found my Hopes disappointed few Days after, when I heard that your Lordship had taken along with you, to the perusing of that Sermon, this Prejudice slily insinuated by a Divine of the Church of <hi>England,</hi> That at the very En<g ref="char:EOLhyphen"/>trance I mistook S. <hi>Augustin,</hi> and back'd my Error by a Forgery, citing for S. <hi>Augustin</hi>'s Words a Sentence taken out of a Spurious Piece, disingenuously fathered upon him by me; but disowned by the Learned of all Parties, and evidently made out not to be his.</p>
+            <pb n="2" facs="tcp:105193:3"/>
+            <p> There came out within a Day or two after, an Answer to <hi>Nubes Testium,</hi> the Author whereof brings up the same Charge against me: Whom on that Account I ima<g ref="char:EOLhyphen"/>gine to be the Divine on whose Word your Lordship rely'd.</p>
+            <p>I conceive it then my Duty to clear my self to your Lordship, and to remove that scandal put upon me, on Design only to divert the Attention which S. <hi>Augustin</hi>'s Authority would have challenged from all well-meaning Persons, to some Truths; that prove very uneasie to some People of that Church, which divided it self-immediately from the Catholic Church, by meer Lay-Authority; ere<g ref="char:EOLhyphen"/>cting a new Altar, without the Consent of any Lawful Pastors; invading a new-moulded Ministry, without Succession, Mission, Character or Jurisdiction; and un<g ref="char:EOLhyphen"/>dermining one third Part of the Apostles Creed; to wit, All that concerns the Church of God; Her Authority, Her Unity, Her Sacraments.</p>
+            <p>'Tis not any private Design of vindicating my self, which moves me to write this Letter; for although the Charge of <hi>Disingenuity and Forgery</hi> be very heavy, yet some People's Pens as well as Tongues are no Slander, especially those in whom mighty Boasting and scurrilous Language betray equally their Silliness and Gall. As for my <hi>charitable Monitor,</hi> after I had been somewhat ac<g ref="char:EOLhyphen"/>quainted with his Humor, and found him (<hi>p.</hi> 21.) most judiciously condemning the Council of <hi>Florence;</hi> that is All the Eminent Men, and Learned Prelates, of the Greek and Latin Church, as <hi>notoriously guilty either of Ignorance or Forgery,</hi> tutoring <hi>the Gentlemen of</hi> France (<hi>p.</hi> 18.) that is, All that Clergy, the <hi>Sorbon,</hi> and other Universi<g ref="char:EOLhyphen"/>ties of that Kingdom, slighting (<hi>p.</hi> 23.) S. <hi>Optatus</hi> of <hi>Milevi,</hi> one of the most valued Fathers of the fourth Age, as one that <hi>little consider'd Scriptures or Fathers before him.</hi> (<hi>P.</hi> 26.) pitying <hi>such Writers as</hi> Bellarmine, <hi>&amp;c.</hi> I must own to your Lordship, that I took my self to be much ob<g ref="char:EOLhyphen"/>lig'd to him, for having placed me in such good Company. I shall not return him his own Coyn, 'tis far from my
+<pb n="3" facs="tcp:105193:3"/>Nature, farther from my Principles and Character.</p>
+            <p>He hath accus'd me to your Lordship, and since, in Print to the World, first of <hi>Ignorance,</hi> in saying, <hi>I follow<g ref="char:EOLhyphen"/>ed the Advice of S.</hi> Augustin, <hi>when I recommended my self to the most blessed Virgin's Intercession.</hi>
+            </p>
+            <p>Secondly, Of <hi>Disingenuity,</hi> in citing for it S. <hi>Aug.</hi> 35. <hi>sermon de Sanctis.</hi> As to the first, I could answer him ful<g ref="char:EOLhyphen"/>ly in his own Method, by telling him <hi>the most eminent Prote<g ref="char:EOLhyphen"/>stant Divines,</hi> as Bishop <hi>Montague,</hi> Bishop <hi>Forbes,</hi> Dr. <hi>Ful<g ref="char:EOLhyphen"/>ler, Thorndike,</hi> &amp;c. have owned that S. <hi>Augustine</hi> did teach and practice Invocation of Saints: But, because he seems to value himself at a far higher rate; to comply in Civility with his Humor, I will appeal to his own Ver<g ref="char:EOLhyphen"/>dict, and content my self with maintaining, That <hi>the Church of</hi> England <hi>is condemned even by himself as guilty of Schism, for separating from the Church of</hi> Rome, <hi>on the Account of that Invocation of Saints, which was taught by S.</hi> Augustin, <hi>and all the Fathers of his Age, and the Pre<g ref="char:EOLhyphen"/>cedent Century.</hi> I hope this will clear me of the first Im<g ref="char:EOLhyphen"/>putation.</p>
+            <p>This then is his final Verdict.
+<note place="margin">
+                  <hi>Answer to</hi> Nubes Testium, <hi>c.</hi> 4. <hi>sect.</hi> 2. <hi>p.</hi> 50.</note>
+               <hi>Had the Church of</hi> Rome <hi>staid here</hi> (in the Practice and Doctrine of the Fathers of the Fourth and Fifth Century) <hi>and not proceeded, so much farther in these things, I do not see that we could have bro<g ref="char:EOLhyphen"/>ken Communion with them upon such an Account.</hi>
+            </p>
+            <p>Next, He owns the Fathers of the Fourth and Fifth Century, as Witnesses and Abettors of the following Practices of the Church of God in their respective Ages, cited by the Pious and Learned Author of <hi>Nubes Testium</hi> not excepted against in the least by him. (Which yet are such as the Church of <hi>Rome</hi> never taught or practised more;) wherefore by his own Confession, the Reformation stands Guilty of Schism, for Separating from her on that ac<g ref="char:EOLhyphen"/>count.</p>
+            <q>
+               <p>That Christian People did celebrate together the Me<g ref="char:EOLhyphen"/>mory of the Martyrs with a <hi>Religious</hi> Solemnity both to excite to an Imitation of them,
+<note place="margin">Aug. c. 20. c. 21. cont. Faust.</note> and <hi>that they might be Partakers of their Merits, and be assisted by their Pray<g ref="char:EOLhyphen"/>ers;</hi>
+                  <pb n="4" facs="tcp:105193:4"/>
+                  <note place="margin">Dulia.</note> giving them an Honor of Love and <hi>Fellowship,</hi> such as we shew to Holy Men yet alive: But so much the more devoutly,
+<note place="margin">
+                     <hi>Such as were shewed to S.</hi> Pe<g ref="char:EOLhyphen"/>ter <hi>and S.</hi> Paul,</note> how much the more securely. That they offered their Prayers to God, having their High Priest Jesus— But if they would also gain the Fa<g ref="char:EOLhyphen"/>vor of many,
+<note place="margin">Act. 5.15.9.30.19.12.28.9. Orig. l. 8. cont. Celf.</note> they were taught in Scripture, That thou<g ref="char:EOLhyphen"/>sands of Thousands assisted before him: That whoever was in Affliction, had recourse to them: Whoever was in Prosperity, betook himself likewise to them; The one, That he might find Relief; the other, To beg Continuance of his Happiness.
+<note place="margin">S. Basil. orat. in 40. Mart.</note> That Mothers praying for their Children <hi>were heard,</hi> the Martyrs being <hi>the Helpers of their Prayers, most powerful Embassadors to God.</hi> That one almost overcome with Temptations of the Flesh,
+<note place="margin">Nazi. orat. 18 in Cypr. Nissen. in or. de S. Theod.</note> raised by Art Magic, befought the Virgin <hi>Mary,</hi> To assist her in her most pressing Danger, and was pre<g ref="char:EOLhyphen"/>sently help'd.</p>
+               <p>That others asked some Saints <hi>peculiar Intercession</hi> for some <hi>certain Countries,</hi>
+                  <note place="margin">Ambros. de m. Cyprian. Theod. de cur. grac.</note> and owned their Safety to them; others call'd them in <hi>as Advocates for their Failings:</hi> That Addresses made to them by Faith, not as to Gods, but as to Holy Men, <hi>who are beseeched to pray to God for those who address themselves to them, were granted:</hi> That Gifts were brought in, in Acknowledgment of <hi>Cures obtained;</hi> some <hi>hanging up Eyes, others Feet, others Hands, made in Gold or Silver:</hi> That when their Names were re<g ref="char:EOLhyphen"/>hearsed <hi>at the Altar,</hi> 'twas not to pray for them, which would have been an Injury;
+<note place="margin">Aug. de verb. Apost. serm. 17. S. Basil. in Ps. 115.</note> but that, <hi>We ought to com<g ref="char:EOLhyphen"/>mend our selves to their Prayers:</hi> That whoever touched the Bone of a Martyr, was in some manner sanctified by it, by Reason of a Blessing attending such Bodies; that on this Account all desired <hi>to approach to the Sepulchre</hi> of Martyrs, not doubting but that the Touching this, would be a Sanctification, and a Blessing to them; and took it for a great Favor <hi>to take up the Dust which did lay about their Monuments,</hi> keeping it as a thing of High Esteem; but deemed it a far greater and unexplicable Happiness to touch the Relics, to <hi>apply them to their Eyes,
+<pb n="5" facs="tcp:105193:4"/>their Mouth, their Ears,</hi> and to all their Senses; and then <hi>prayed to the Martyrs as if they were alive</hi> and pre<g ref="char:EOLhyphen"/>sent, to make Intercession for them; that each Drop of their Blood, and small Mark of their Martyrdom,
+<note place="margin">Naz. orat. in Jul. &amp; 18. in Cypr. S. J. Chrys. de S. Ignat.</note>
+                  <hi>their very Dust, cast out Devils and cured Diseases;</hi> that God favoured his Church with the Relics of Saints, to the End, (that besides the leading Men to their Imitation) he might afford a secure Port, and set a Remedy against the Evil, which on all Sides infested Mankind.</p>
+               <p>That 'twas <hi>to the Saints,</hi> whose Bodies were visited, that Christians came, and were sent back full of Blessings. Such Bodies were not kept <hi>each in their own Monuments,</hi> but divided amongst the Cities and Villages, as esteemed <hi>the Preservers of their Souls and Bodies,</hi> who made use of their Intercession with God, and by them obtained Di<g ref="char:EOLhyphen"/>vine Favors; nay,
+<note place="margin">Hyer. cont. Vi<g ref="char:EOLhyphen"/>gil.</note> that they were translated by all Chri<g ref="char:EOLhyphen"/>stian Emperors from their former Monuments, <hi>Bishops carrying them on their Shoulders, reposited in Vessels of Gold,</hi> the People making a Lane from Country to Country, of Quires singing the Praises of God, for them to pass through: That on such Occasions, many by <hi>touching the Saints Garments</hi> were eased of their Infirmities, many Cured, <hi>by the very Shadows of their Bodies:</hi>
+                  <note place="margin">Ambros. ep. ad Marcell.</note> Even Hand<g ref="char:EOLhyphen"/>kerchiefs thrown upon their Relics, and immediately demanded back,
+<note place="margin">Aug. serm. 92. de diver.</note> were blessed <hi>with a Virtue of being An<g ref="char:EOLhyphen"/>tidote against any Distemper.</hi> Thus God made the Dust of the Dead highly beneficial to all.</p>
+            </q>
+            <p>All this Matter of Fact is owned by this nameless Gen<g ref="char:EOLhyphen"/>tleman, to which many other such Authorities of the same Fathers, as unquestionable, may be added:
+<q>
+                  <note place="margin">Ephrem. syr. in Thren.</note> As <hi>that all fell down (in Prayer) before our blessed Lady,</hi> all implored her to free them from all Necessities, from all the Tem<g ref="char:EOLhyphen"/>ptations of the Devil, <hi>as their Reconciler;</hi>
+                  <note place="margin">Naz. in frag. ch. pat.</note> asked of her to admit their Prayers, and to grant that which they esteemed the chiefest of all; That departing this Life, <hi>they might find her to be their Patron and Advocate unto her Son:</hi>
+                  <note place="margin">Aug. de cura pro mor.</note> That all Christians desired to be buried after Death, near some Monument of the Martyrs, that their
+<pb n="6" facs="tcp:105193:5"/>Friends remembring where they were laid, might by their Prayers recommend them to those Saints;
+<note place="margin">Aug. in ep. 137. &amp; 43.</note> as <hi>re<g ref="char:EOLhyphen"/>ceived into their Protection:</hi> That Christians piously took their recourse to Saints Monuments, or to particular Places,
+<note place="margin">Hylar Arel. in vita S. Honor. S. Leo serm. in S. Pet. P.</note> where they were honored, expecting <hi>Miraculous Favors,</hi> and going rather to some Saints than others to obtain <hi>some kinds of Blessings.</hi>
+               </q>
+            </p>
+            <p>Now to joyn Issue with this Answerer; I challenge him to produce any Devotion paid to Saints, and allowed of in the Catholic, or (as he calls it) Roman Church, that reaches higher than this now cited out of <hi>Nubes Testium,</hi> and allowed of by this Answerer: Which because I know he cannot, and hath not yet attempted, I conclude that by his own Confession, The Church of <hi>England</hi> did Schismati<g ref="char:EOLhyphen"/>cally disunite it self from the Church of <hi>Rome</hi> on the Account of Invocation of Saints, which was used and ad<g ref="char:EOLhyphen"/>vised by S. <hi>Augustin,</hi> and the Fathers of his Age, and of the other purest Primitive Ones, as it is now used in the Roman Church.</p>
+            <p>The second Head of his Accusation, is of <hi>notorious Dis<g ref="char:EOLhyphen"/>ingenuity,</hi> in citing S. <hi>Augustin</hi>'s 35th. Sermon <hi>de Sanctis;</hi> and laying that Brat altogether illegitimate to S. <hi>Augu<g ref="char:EOLhyphen"/>stin.</hi> He borrows of <hi>Alexandre natalis,</hi> some Proofs of this Confident Assertion, and adds one of his own Con<g ref="char:EOLhyphen"/>trivance: Then wonders at my <hi>Egregious Cheat;</hi> and sup<g ref="char:EOLhyphen"/>posing, I cannot but see <hi>now</hi> my great Error, minds me very gravely to undeceive the Members of my Church.</p>
+            <p>This is mighty boasting indeed! yet after all his learned Labor, I am as Ignorant as ever; he may wonder at my Dulness; but I dare appeal however to your Lordships unbyast Judgment, Whether my Answers to his weak Ob<g ref="char:EOLhyphen"/>jections, render it not at least most probable, That S. <hi>Au<g ref="char:EOLhyphen"/>gustin</hi> was really the Author of that Sermon?</p>
+            <p>His first Objection runs thus; the Title, <hi>A Sermon in the Feast of the Assumption, doth not agree at all to any thing that is near S.</hi> Augustin's <hi>time.</hi>
+            </p>
+            <p>If his Meaning be, That no Feast of the Assumption was kept in those days, 'tis true: But in the Name of Lo<g ref="char:EOLhyphen"/>gic,
+<pb n="7" facs="tcp:105193:5"/>What Consequence can be drawn thence? S. <hi>Augu<g ref="char:EOLhyphen"/>stin</hi>'s 14th. Sermon <hi>de Sanctis,</hi> is allowed by all to be his genuine Work, the Title whereof, is <hi>in the Feast of all Saints;</hi> yet the Institution of that Feast was much later than that Sermon, which was made for, and preach'd in the Solemnity of a Virgin and Martyr. S. <hi>Methodius</hi> Bishop of <hi>Patara,</hi> or as others say <hi>Lycia,</hi> a Martyr in <hi>Dioclesians</hi> Persecutions: <hi>Amphilochius,</hi> and S. <hi>Cyril</hi> made Orations on the Purification of the Blessed Virgin: Tho as <hi>Baronius,</hi> in his Annotations on the Martyrology, learnedly shews, This Feast begun to be solemnized long after, under <hi>Justi<g ref="char:EOLhyphen"/>nian</hi> the Emperor: So that 'tis as Judicious to draw an Argument from the Title prefixt to Sermons, as from an Index joyned to a Book.</p>
+            <p>But there is a far greater Mistake in this Objection, much to be wondred at, in so great a Pretender to Read<g ref="char:EOLhyphen"/>ing; as if <hi>Feast, or Day of Assumption,</hi> in the Writings of Antients, did almost ever signifie any thing else but the <hi>Day of a Saints Death.</hi> S. <hi>Hierom,</hi> or an Author of the same Age, S. <hi>Hephonsus, William</hi> Bishop of <hi>Paris,</hi> S. <hi>Ber<g ref="char:EOLhyphen"/>nard,</hi> and others- writ Sermons on our Blessed Lady's <hi>As<g ref="char:EOLhyphen"/>sumption;</hi> altho in those very Orations, we find they doubted of, or disbelieved her being Assumed in Body into Heaven. After all, it was in the first Ages piously believ<g ref="char:EOLhyphen"/>ed by many, That our Blessed Lord's Mother enjoyed in Body as well as Soul, Heavenly Bliss. The Sermon under S. <hi>Mellion</hi>'s Name, is as full in this Point, as the most Pi<g ref="char:EOLhyphen"/>us Catholic Preachers could be at this Day; and if it be not his Genuine Work, it must be of some other Author nigh these Times, since it passed for his, even in the Fifth Cen<g ref="char:EOLhyphen"/>tury: And <hi>Nicephorus</hi> assures us, That <hi>Javenal</hi> Patriarch of <hi>Hierusalem</hi> proved the Truth of this Mistery, as now believed in the Catholic Church, to have been received of very Antient Tradition, in the Presence of <hi>Martian</hi> the Emperor, in whose time was the Fourth General Coun<g ref="char:EOLhyphen"/>cil.</p>
+            <p>Secondly, He urges, That <hi>the Divines of</hi> Lovain <hi>tell us, How in several Manuscripts this Sermon was intituled to</hi> Ful<g ref="char:EOLhyphen"/>bertus
+<pb n="8" facs="tcp:105193:6"/>Carnosensis. Another Objection of as little Force as the Former; as if S. <hi>Ambrose,</hi> and S. <hi>Peter Chrysologus</hi>'s Sermons had not appeared in many Manuscripts under other Authors Names; he might have learned from <hi>Alex<g ref="char:EOLhyphen"/>andre Natalis,</hi> a dozen at least of like Examples: And to instance in one, S. <hi>Syncletica</hi>'s Life, a Virgin of <hi>Alexandria,</hi> was undoubtedly written by <hi>Athanasius,</hi> yet many Antient Manuscripts intituled <hi>Polycarp</hi> the Anchoret to it.</p>
+            <p>Thirdly, <hi>'Tis certain it was not writ by S.</hi> Augustin, <hi>or two hundred Years after him, from S.</hi> Isidore <hi>being quoted in it, who lived in the Beginning of the seventh Century: It is probable that it doth belong to</hi> Fulbertus, <hi>who lived not till past a thousand Years after Christ.</hi> What he calls here <hi>cer<g ref="char:EOLhyphen"/>tain</hi> is <hi>unprobable,</hi> and what he stiles <hi>Probable</hi> is <hi>certainly False.</hi> The Author of this Sermon tells us, That in his Time, no Author amongst the Latins could be found, who treating of our Blessed Ladies Death had been Positive, and Express. <hi>Nec invenitur apud Latinos aliquis tractatorum de ejus morte quidpiam dixisse aperte.</hi> Yet the most famous Historian of the sixth Age,
+<note place="margin">GG. Turon. l. 1. mirac.</note> S. <hi>Gregory,</hi> hath a most full Account of our Blessed Lady's Assumption, agreeing with the general Pi<g ref="char:EOLhyphen"/>ous Opinion of it now received through the whole Catho<g ref="char:EOLhyphen"/>lic Church. This <hi>Isidore</hi> then must be at least four hun<g ref="char:EOLhyphen"/>dred Years antienter than our exact Antiquary supposes; and in all Probability antienter much than S. <hi>Augustin</hi> or S. <hi>Hierom,</hi> who (or one at least Contemporary with him) hath written fully and positively on this Subject. Many <hi>Isidores</hi> are known in the Church History before S. <hi>Augu<g ref="char:EOLhyphen"/>stin</hi>'s time; amongst which, one was martyr'd in <hi>Dioclesi<g ref="char:EOLhyphen"/>an</hi>'s Persecution, Brother to that <hi>Pienus</hi> who was stiled the Second <hi>Origen:</hi>
+               <note place="margin">Tuam ipsius animam per<g ref="char:EOLhyphen"/>transibit gladi<g ref="char:EOLhyphen"/>us, <hi>Luc.</hi> 2. Haer. 78.</note> And all that is cited of <hi>Isidore</hi> here, is, that he doubted whether those Words of <hi>Simeon, Luc.</hi> 2. were to be understood of the Sword of the Spirit, or of Persecution, an obvious Doubt which S. <hi>Epiphanius</hi> had some Years before S. <hi>Augustin.</hi>
+            </p>
+            <p>His last Objection is, That <hi>some Divines at</hi> Lovain, <hi>and some Benedictines at</hi> Paris, <hi>have rejected this Sermon as spu<g ref="char:EOLhyphen"/>rious.</hi> I could answer in his own Phrase, That <hi>Men of this
+<pb n="9" facs="tcp:105193:6"/>Age are strangely set upon New Discoveries;</hi> but the Respect I ow to the learned and pious Labors of those Worthies, forbids me to pass them by so slightly. I answer then, That their Judgment might byass me, if the Authority of S. <hi>Thomas,</hi>
+               <note place="margin">Sicut Augusti<g ref="char:EOLhyphen"/>nus in Sermone de Assumptione ipsius Virgi<g ref="char:EOLhyphen"/>nis rationabili<g ref="char:EOLhyphen"/>ter argumenta<g ref="char:EOLhyphen"/>tur.</note> in such Veneration with all Universities and Learned Men, whom they both own as their Master, did not sway more with one, who acknowledged this Sermon as S. <hi>Augustin</hi>'s own, and cited it as his Work, from whose Decision I will not swerve. But since this Gentleman va<g ref="char:EOLhyphen"/>lues so much (the wiser he for it) those <hi>Lovain</hi>-Divines Censure; let me mind him, That they assert to S. <hi>Augu<g ref="char:EOLhyphen"/>stin</hi> the 18th Sermon <hi>de Sanctis,</hi> in which the Saint, after he hath begged of the Mother of God, That <hi>having re<g ref="char:EOLhyphen"/>ceived his Vows, she would by her Prayers obtain Pardon for his Sins</hi> &amp;c. he concludes, <hi>What we offer by you, let it by you be pardonable; what we ask with a faithful Mind, let it become attainable; receive what we offer, return us what we ask:—Holy</hi> Mary, <hi>succor the Miserable, help the Faint-Hearted, comfort the Weeping, pray for the People, interpose for the Clergy, intercede for the Devout Sex, let all experience your helping Hand, who celebrate your Holy Feast.</hi> If this be not INVOCATION, what Name shall we bestow on it.</p>
+            <p>I leave it now to your Decision, my Lord, whether I deserved from your Divine that Gross and Harsh Censure Of <hi>guilty of a Cheat put upon his Majesty, of great Igno<g ref="char:EOLhyphen"/>rance, of Notorious Disingenuity, Forgery, great Error, Egregious Cheat,</hi> &amp;c. somewhat rudely heaped in his cha<g ref="char:EOLhyphen"/>ritable Admonition of half a Page? Till I know your Lordships Decision, all I can say to the Members of my Church, is, That I am more convinced than ever of what S. <hi>Augustin</hi> hath so long since pronounced,
+<note place="margin">August. cont. ep. fund. c. 6.</note>
+               <hi>That Pride is the Mother and Issue of all Heresies,</hi> whose Votaries ever supply the want of Sense and Reason, with most insult<g ref="char:EOLhyphen"/>ing and scurrilous Language. Far be it from me, even to return the like, <hi>We have no such Custom, neither hath the Church of God:</hi> Truth would blush to be defended by such unwarrantable Arms, especially before a Judg of
+<pb n="10" facs="tcp:105193:7"/>so much Prudence and Moderation as your Lordship, to whose Censure I submit this Writing; whether it prove so favourable an one to me, as every one is apt to pro<g ref="char:EOLhyphen"/>tend a Title unto in his own Cause, or no; nothing shall be altered, in the due Respect owed to your Lord<g ref="char:EOLhyphen"/>ship, By</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <lb/>
+               <signed>your Lordship's<lb/> Most Humble and<lb/> Obedient Servant,<lb/>
+                  <hi>Lewis Sabran,</hi> Priest of the Society of Jesus</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
